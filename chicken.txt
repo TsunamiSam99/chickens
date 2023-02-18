@@ -3,3 +3,5 @@ Brahma
 Buckeye
 Leghorn
 Silke
+Sussex
+Plymouth Rock
